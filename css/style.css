@@ -8,7 +8,7 @@ header{
 }
 .class{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: stretch;
     
     background-color: aqua;
